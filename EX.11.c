@@ -1,7 +1,7 @@
 #include <stdio.h>
 #define MAX 50
 #define SUBJECTS 5
-struct Student
+struct Student//y
 {
     int regno;
     char name[50];
