@@ -1,6 +1,6 @@
 #include <stdio.h>
 int square(int n);
-int factorial(int n);
+int factorial(int n);//h
 int main()
 {
     int n, res, fact;
