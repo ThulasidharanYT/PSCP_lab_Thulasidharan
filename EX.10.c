@@ -2,7 +2,7 @@
 struct Student//j
 {
     int rollno;
-    char name[50];
+    char name[50];//k
     char attendance;
 };
 int main()
