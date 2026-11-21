@@ -2,7 +2,7 @@
 #include <string.h>
 int main()
 {
-    char str1[50], str2[50], str3[100];
+    char str1[50], str2[50], str3[100];//t
     int res;
     printf("Enter the first string: ");
     scanf("%s", str1);
