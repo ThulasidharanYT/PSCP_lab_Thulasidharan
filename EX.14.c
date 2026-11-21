@@ -4,7 +4,7 @@ int main()
 {
     int n, i, largest;
 
-    printf("Enter the number of elements: ");
+    printf("Enter the number of elements: ");//dg
     scanf("%d", &n);
 
     int a[n];
