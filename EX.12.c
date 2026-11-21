@@ -4,7 +4,7 @@
 
 struct Account
 {
-    int accountNumber;
+    int accountNumber;//h
     char name[50];
     char phone[15];
     float balance;
