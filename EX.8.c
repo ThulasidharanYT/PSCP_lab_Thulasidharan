@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /* Call by Value */
-int addByValue(int a, int b)
+int addByValue(int a, int b)//
 {
     int res;
     res = a + b;
